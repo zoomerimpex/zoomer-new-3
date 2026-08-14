@@ -1,0 +1,180 @@
+{
+  "settings": [
+    {
+      "key": "topbar_email",
+      "value": "zoomerimpex@gmail.com"
+    },
+    {
+      "key": "topbar_phone",
+      "value": "+91 86088 40943"
+    },
+    {
+      "key": "nav_subtitle",
+      "value": "Kids Wear Manufacturer & Exporter"
+    },
+    {
+      "key": "hero_eyebrow",
+      "value": "PREMIUM KIDS FASHION"
+    },
+    {
+      "key": "hero_title",
+      "value": "Crafting Smiles with Every Stitch"
+    },
+    {
+      "key": "hero_subtitle",
+      "value": "Leading exporter of comfortable, trendy & high-quality kids garments worldwide."
+    },
+    {
+      "key": "hero_brand",
+      "value": "ZOOMER"
+    },
+    {
+      "key": "hero_tagline",
+      "value": "SMILES WITH EVERY STITCH"
+    },
+    {
+      "key": "hero_badge",
+      "value": "100% Cotton"
+    },
+    {
+      "key": "about_title",
+      "value": "Passionate About Quality Kids Wear"
+    },
+    {
+      "key": "about_p1",
+      "value": "Zoomer Impex has been a trusted name in kids apparel manufacturing for over a decade. We specialize in producing premium cotton dresses, frocks, casual wear, and custom collections for global brands."
+    },
+    {
+      "key": "about_p2",
+      "value": "Our state-of-the-art production facilities and strict quality standards ensure that every piece of clothing is safe, soft, durable, and stylish for children of all ages."
+    },
+    {
+      "key": "stat_styles",
+      "value": "500+"
+    },
+    {
+      "key": "stat_clients",
+      "value": "120+"
+    },
+    {
+      "key": "stat_countries",
+      "value": "15+"
+    },
+    {
+      "key": "stat_years",
+      "value": "10+"
+    },
+    {
+      "key": "stat_quality",
+      "value": "100%"
+    },
+    {
+      "key": "contact_address",
+      "value": "123 Textile Avenue, Garment Hub, Tirupur, Tamil Nadu 641601"
+    },
+    {
+      "key": "contact_email",
+      "value": "zoomerimpex@gmail.com"
+    },
+    {
+      "key": "contact_phone",
+      "value": "+91 86088 40943"
+    },
+    {
+      "key": "contact_website",
+      "value": "www.zoomerimpex.com"
+    },
+    {
+      "key": "footer_copy",
+      "value": "© 2026 Zoomer Impex. All rights reserved."
+    },
+    {
+      "key": "img_hero",
+      "value": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "key": "img_about",
+      "value": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "key": "img_phero",
+      "value": "https://images.unsplash.com/photo-1514090458221-65bb69cf63e6?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "key": "img_p1",
+      "value": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "key": "img_p2",
+      "value": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "key": "img_p3",
+      "value": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "key": "img_p4",
+      "value": "https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "key": "img_p5",
+      "value": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "key": "img_bhero",
+      "value": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "key": "img_bpromise",
+      "value": "https://images.unsplash.com/photo-1514090458221-65bb69cf63e6?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "key": "img_bg1",
+      "value": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "key": "img_bg2",
+      "value": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "key": "img_bg3",
+      "value": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "key": "img_bg4",
+      "value": "https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "key": "img_why",
+      "value": "https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "key": "img_quality",
+      "value": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "key": "img_contact",
+      "value": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Sample Inquiry",
+      "company_name": "Fashion Retail Co.",
+      "email": "buyer@fashionretail.com",
+      "phone": "+91 99887 76655",
+      "subject": "Bulk Cotton Dresses Order",
+      "message": "Hello, we would like to enquire about bulk order pricing for 500 units of cotton dresses.",
+      "status": "new",
+      "created_at": "2026-08-14T10:07:26.044Z"
+    }
+  ],
+  "admins": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password_hash": "password123"
+    }
+  ]
+}
